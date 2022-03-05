@@ -1,7 +1,11 @@
 /* common code start */
 *{
     scroll-behavior:smooth !important;
-    overflow-x:hidden;
+    
+}
+
+body{
+    overflow-x:hidden;   
 }
 
 
